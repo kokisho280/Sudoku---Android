@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="about">\
+	    Sudoku é um jogo baseado em posicionamento lógico de numeros do 1 ao 9. Começa com uma tabela de 9x9 inacabada, tendo como objectivo acabar por completar cada coluna, cada linha e em cada grelha de 3x3 tem de ter numeros apenas de 1 ao 9.
+	</string>
+	<string name="app_name">Sudoku</string>
+	<string name="main_title">Android Sudoku</string>
+	<string name="end_game">Congrats, You Win</string>
+	<string name="continue_label">Continuar</string>
+	<string name="new_game_label">Novo Jogo</string>
+	<string name="about_label">Sobre</string>
+	<string name="exit_label">Sair</string>
+	<string name="settings_label">Opcoes</string>
+	<string name="settings_title">Opcoes do Sudoku</string>
+	<string name="settings_shortcut">s</string>
+	<string name="nums_title">Numeros Maiores</string>
+	<string name="nums_summary">Por os numeros grandes no tabuleiro</string>
+	<string name="music_title">Musica</string>
+	<string name="music_summary">Ouvir musica de fundo</string>
+	<string name="hints_title">Hints</string>
+	<string name="hints_summary">Dicas durante o jogo</string>
+	<string name="new_game_title">Dificuldade</string>
+	<string name="easy_label">Facil</string>
+	<string name="medium_label">Medio</string>
+	<string name="hard_label">Dificil</string>
+	<string name="game_title">Jogo</string>
+	<string name="no_moves_label">Sem jogadas possiveis</string>
+	<string name="keypad_title">Keypad</string>
+	<string name="about_title">Sobre Android Sudoku</string>
+</resources>
